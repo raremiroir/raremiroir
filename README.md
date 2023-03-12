@@ -43,7 +43,7 @@ I love making new friends and working together. I'm up to collaborate on any gre
 If you want to know more about me or my work, feel free to connect with me on LinkedIn or Facebook. 
 You can also check out my other Github account - mir0ir.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mistmedia.be/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mistmedia)
+[![mistmedia](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mistmedia.be/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mistmedia) [![Other Github](https://img.shields.io/badge/Other_Github-0ABF53?style=for-the-badge&logo=GitHub)](https://github.com/mir0ir)
 
 ---
 
