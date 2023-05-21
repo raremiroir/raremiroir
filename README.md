@@ -23,9 +23,9 @@ I'm always working on new and exciting projects to develop and showcase my skill
 
 ### Full-Stack Web Development
 * [**Cousteaucafe.be**](https://cousteaucafe.be): Creation of a site for a customer with SvelteKit
-[![Check out website](https://img.shields.io/badge/Check_out_website-0b3259?style=for-the-badge&logo=GoToMeeting&logoColor=white)](https://cousteaucafe.be)  [![Check out repo](https://img.shields.io/badge/Check_out_repo-0ABF53?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raremiroir/cafecousteau)
+[![Check out website](https://img.shields.io/badge/Check_out_website-0b3259?style=for-the-badge&logo=GoToMeeting&logoColor=white)](https://cousteaucafe.be)  [![Check out repo](https://img.shields.io/badge/Check_out_repo-0ABF53?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raremiroir/cafecousteau-sveltekit)
 * [**Devastgoedadviseur.com**](https://devastgoedadviseur.com): Creation of a site for a customer with SvelteKit
-[![Check out website](https://img.shields.io/badge/Check_out_website-0b3259?style=for-the-badge&logo=GoToMeeting&logoColor=white)](https://devastgoedadviseur.com)  [![Check out repo](https://img.shields.io/badge/Check_out_repo-0ABF53?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raremiroir/devastgoedadviseur)
+[![Check out website](https://img.shields.io/badge/Check_out_website-0b3259?style=for-the-badge&logo=GoToMeeting&logoColor=white)](https://devastgoedadviseur.com)  [![Check out repo](https://img.shields.io/badge/Check_out_repo-0ABF53?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raremiroir/vastgoedadviseur-sveltekit)
 
 ### Graphic Design
 * Insert item
