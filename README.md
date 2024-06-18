@@ -2,9 +2,10 @@
 
 #### *Passionate Autodidact, Blending Creativity and Tech*
 
-👋 Hi there, I'm Miro Storm - a **full-stack web developer**, graphic designer and 3D artist. I'm a freelancer with my own company, called Mist Media.
+👋 Hi there, I'm Miro Storm - a **full-stack web developer**, graphic designer and 3D artist.
 
-At the moment, I'm studying **Multimedia and Creative Technologies**, at [Karel de Grote Academy](https://kdg.be) in Antwerp, Belgium. 
+At the moment, I'm working full-time as a **Front-End React Engineer**, at [November Five](https://novemberfive.co) in Antwerp, Belgium. 
+On the side, I'm a freelancer with my own company, called Mist Media.
 
 I'm always looking for new ways to combine my passion for technology and creativity to create something unique and exciting.
 
@@ -12,11 +13,11 @@ I'm always looking for new ways to combine my passion for technology and creativ
 ## 🛠 Skills
 I love learning new things and experimenting with new technologies. Here are some of the tools and technologies I'm proficient in:
 
-[![html5](https://img.icons8.com/color/48/html-5.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)   [![css3](https://img.icons8.com/color/48/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)   [![typescript](https://img.icons8.com/color/48/typescript.png)](https://www.typescriptlang.org)   [![nodejs](https://img.icons8.com/fluency/48/node-js.png)](https://nodejs.org/en/)     [![php](https://img.icons8.com/dusk/56/php-logo.png)](https://www.php.net)     [![svelte](https://img.icons8.com/doodle/48/svetle.png)](https://svelte.dev) [![firebase](https://img.icons8.com/color/48/firebase.png)](https://firebase.google.com)    [![mysql](https://img.icons8.com/color/64/mysql-logo.png)](https://www.mysql.com)   [![postgresql](https://img.icons8.com/color/48/postgreesql.png)](https://www.postgresql.org)   [![figma](https://img.icons8.com/fluency/48/figma.png)](https://www.figma.com)   [![blender](https://img.icons8.com/color/48/blender-3d.png)](https://www.blender.org)   [![unity](https://img.icons8.com/dusk/48/unity.png)](https://unity.com)   [![laravel](https://img.icons8.com/fluency/48/laravel.png)](https://laravel.com)
+[![html5](https://img.icons8.com/color/48/html-5.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)   [![css3](https://img.icons8.com/color/48/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)   [![typescript](https://img.icons8.com/color/48/typescript.png)](https://www.typescriptlang.org)   [![nodejs](https://img.icons8.com/fluency/48/node-js.png)](https://nodejs.org/en/)     [![php](https://img.icons8.com/dusk/56/php-logo.png)](https://www.php.net)     [![svelte](https://img.icons8.com/doodle/48/svetle.png)](https://svelte.dev)     [![react](https://img.icons8.com/doodle/48/react.png)](https://react.dev)     [![firebase](https://img.icons8.com/color/48/firebase.png)](https://firebase.google.com)    [![mysql](https://img.icons8.com/color/64/mysql-logo.png)](https://www.mysql.com)   [![postgresql](https://img.icons8.com/color/48/postgreesql.png)](https://www.postgresql.org)   [![figma](https://img.icons8.com/fluency/48/figma.png)](https://www.figma.com)   [![blender](https://img.icons8.com/color/48/blender-3d.png)](https://www.blender.org)   [![unity](https://img.icons8.com/dusk/48/unity.png)](https://unity.com)   [![laravel](https://img.icons8.com/fluency/48/laravel.png)](https://laravel.com)
 
 
 ## 🧠 Currently learning
-[![nextjs](https://img.icons8.com/color/48/nextjs.png)](https://nextjs.org)
+/
 
 
 ## 🎓 Education
