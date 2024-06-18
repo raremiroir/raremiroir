@@ -18,23 +18,10 @@ I love learning new things and experimenting with new technologies. Here are som
 ## 🧠 Currently learning
 [![nextjs](https://img.icons8.com/color/48/nextjs.png)](https://nextjs.org)
 
-## 🚀 Projects
-I'm always working on new and exciting projects to develop and showcase my skills. Here are some of my recent projects:
-
-### Full-Stack Web Development
-* [**Cousteaucafe.be**](https://cousteaucafe.be): Creation of a site for a customer with SvelteKit
-[![Check out website](https://img.shields.io/badge/Check_out_website-0b3259?style=for-the-badge&logo=GoToMeeting&logoColor=white)](https://cousteaucafe.be)  [![Check out repo](https://img.shields.io/badge/Check_out_repo-0ABF53?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raremiroir/cafecousteau-sveltekit)
-* [**Devastgoedadviseur.com**](https://devastgoedadviseur.com): Creation of a site for a customer with SvelteKit
-[![Check out website](https://img.shields.io/badge/Check_out_website-0b3259?style=for-the-badge&logo=GoToMeeting&logoColor=white)](https://devastgoedadviseur.com)  [![Check out repo](https://img.shields.io/badge/Check_out_repo-0ABF53?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/raremiroir/vastgoedadviseur-sveltekit)
-
-### Graphic Design
-* Insert item
-### 3D Visualization
-* Insert item
-
 
 ## 🎓 Education
-I'm currently pursuing a degree in multimedia and creative technologies at Karel de Grote Academy in Antwerp, Belgium. My coursework covers topics such as full-stack web development, 3D modeling and animation, and UX/UI design.
+I've got a bachelor's degree in multimedia and creative technologies. My coursework covered topics such as full-stack web development, 3D modeling and animation, UX/UI design and audiovisual techniques.
+Out of all these possible majors, I graduated in the field of web development.
 
 
 ## 🔗 Connect with me
